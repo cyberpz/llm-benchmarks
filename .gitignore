@@ -1,0 +1,5 @@
+# HTML reports (self-contained, open in browser)
+*.html
+
+# Keep markdown source files
+!*.md
